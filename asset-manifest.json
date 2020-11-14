@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wallsplaz/static/css/main.bba915d8.chunk.css",
+    "main.js": "/wallsplaz/static/js/main.15d96409.chunk.js",
+    "main.js.map": "/wallsplaz/static/js/main.15d96409.chunk.js.map",
+    "runtime-main.js": "/wallsplaz/static/js/runtime-main.23e7ad52.js",
+    "runtime-main.js.map": "/wallsplaz/static/js/runtime-main.23e7ad52.js.map",
+    "static/js/2.eaac5de8.chunk.js": "/wallsplaz/static/js/2.eaac5de8.chunk.js",
+    "static/js/2.eaac5de8.chunk.js.map": "/wallsplaz/static/js/2.eaac5de8.chunk.js.map",
+    "index.html": "/wallsplaz/index.html",
+    "static/css/main.bba915d8.chunk.css.map": "/wallsplaz/static/css/main.bba915d8.chunk.css.map",
+    "static/js/2.eaac5de8.chunk.js.LICENSE.txt": "/wallsplaz/static/js/2.eaac5de8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23e7ad52.js",
+    "static/js/2.eaac5de8.chunk.js",
+    "static/css/main.bba915d8.chunk.css",
+    "static/js/main.15d96409.chunk.js"
+  ]
+}
